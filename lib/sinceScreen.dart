@@ -22,11 +22,11 @@ final List<String> scienceSubtitles = [
 
 final List<String> scienceImages = [
   "https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg", 
-  "https://images.pexels.com/photos/5929/health-medicine-doctor-hospital.jpg", 
+  "https://popsciarabia.com/wp-content/uploads/2023/09/Popsci_-_%D8%B5%D9%88%D8%B1%D8%A9_%D8%A8%D9%88%D8%A8%D8%B3%D8%A7%D9%8A_2-1.jpg", 
   "https://images.pexels.com/photos/256262/pexels-photo-256262.jpeg", 
   "https://images.pexels.com/photos/23727/pexels-photo.jpg", 
   "https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg", 
-  "https://images.pexels.com/photos/1100730/pexels-photo-1100730.jpeg", 
+  "https://i.pinimg.com/736x/66/3d/3d/663d3d9569758367c1dd8d7ba59d2241.jpg", 
   "https://images.pexels.com/photos/3825513/pexels-photo-3825513.jpeg", 
 ];
 

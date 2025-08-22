@@ -23,9 +23,9 @@ final List<String> sportsSubtitles = [
 final List<String> sportsImages = [
   "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg",
   "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg",
-  "https://images.pexels.com/photos/163403/soccer-football-goalkeeper-catch-163403.jpeg",
+  "https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg",
   "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg",
-  "https://images.pexels.com/photos/159515/soccer-football-sport-ball-159515.jpeg",
+  "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_780,h_439,c_fill,q_auto/cnnarabic/2015/05/13/images/31940.jpg",
   "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg",
   "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg",
 ];

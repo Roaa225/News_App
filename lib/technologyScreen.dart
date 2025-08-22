@@ -24,7 +24,7 @@ final List<String> technologyImages = [
   "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg", 
   "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg", 
   "https://images.pexels.com/photos/256381/pexels-photo-256381.jpeg", 
-  "https://images.pexels.com/photos/538065/pexels-photo-538065.jpeg", 
+  "https://t4.ftcdn.net/jpg/02/45/63/69/360_F_245636933_kY23ohGptK5t6n8wGSXIgLgVXWeHJRct.jpg", 
   "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg", 
   "https://images.pexels.com/photos/1181297/pexels-photo-1181297.jpeg", 
   "https://images.pexels.com/photos/110844/pexels-photo-110844.jpeg", 

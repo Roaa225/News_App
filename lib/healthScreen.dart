@@ -24,10 +24,10 @@ final List<String> healthImages = [
   "https://images.pexels.com/photos/305568/pexels-photo-305568.jpeg", 
   "https://images.pexels.com/photos/4101143/pexels-photo-4101143.jpeg", 
   "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg", 
-  "https://images.pexels.com/photos/6234586/pexels-photo-6234586.jpeg",
+  "https://m7et.com/wp-content/uploads/2021/06/%D8%A8%D8%AD%D8%AB_%D8%B9%D9%86_%D8%A7%D9%84%D8%B5%D8%AD%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9.jpg",
   "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg", 
-  "https://images.pexels.com/photos/4021776/pexels-photo-4021776.jpeg", 
-  "https://images.pexels.com/photos/612904/pexels-photo-612904.jpeg", 
+  "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1087,c_scale,q_auto/cnnarabic/2020/08/06/images/161714.jpg", 
+  "https://www.ra2ed.com/UserFiles/HEALTH-A22.jpg", 
 ];
 
 class healthscreen extends StatelessWidget {

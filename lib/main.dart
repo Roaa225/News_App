@@ -1,5 +1,21 @@
-import 'package:f6/GeneralScreen.dart';
 import 'package:flutter/material.dart';
+import 'package:f6/businessScreen.dart';
+import 'package:f6/entertainmentScreen.dart';
+import 'package:f6/healthScreen.dart';
+import 'package:f6/sinceScreen.dart';
+import 'package:f6/sportsScreen.dart';
+import 'package:f6/technologyScreen.dart';
+import 'package:f6/GeneralScreen.dart';
+
+final List<Widget> categoryScreens = [
+  Generalscreen(),       
+  sportsScreen(),        
+  businessScreen(),      
+  technologyScreen(),   
+  entertainmentScreen(), 
+  healthscreen(),        
+  sinceScreen(),        
+];
 
 final List<String>images= [
   "https://images.pexels.com/photos/261949/pexels-photo-261949.jpeg", 
@@ -51,6 +67,8 @@ final List<String> titles = const [
     "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg",
   ];
 
+  
+
 
 void main() {
   runApp(const MyApp());
@@ -89,7 +107,7 @@ class MyApp extends StatelessWidget {
                     context,
                    MaterialPageRoute(
                    builder: (context) {
-                   return Generalscreen() ;
+                   return categoryScreens[index] ;
                  },
                ),
              );
