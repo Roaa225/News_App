@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-final List<String> titles = const [
+final List<String> titles =  [
   "Global Leaders Meet for Climate Summit",
   "Stock Markets See Strong Recovery",
   "Tech Giants Face New Regulations",
@@ -9,7 +9,7 @@ final List<String> titles = const [
   "Major Sports Event Unites Fans",
 ];
 
-final List<String> subtitles = const [
+final List<String> subtitles =  [
   "World leaders gathered to discuss urgent steps to tackle climate change.",
   "Markets bounced back today after weeks of uncertainty and declines.",
   "Governments are introducing strict rules to control big tech companies.",
@@ -19,7 +19,7 @@ final List<String> subtitles = const [
   "Thousands of fans celebrate unity during a highly anticipated tournament.",
 ];
 
-final List<String> imagesForG = const [
+final List<String> imagesForG =  [
   "https://images.pexels.com/photos/2990650/pexels-photo-2990650.jpeg", 
   "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg",   
   "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg", 
@@ -29,8 +29,8 @@ final List<String> imagesForG = const [
   "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg", 
 ];
 
-class SecondScreen extends StatelessWidget {
-  const SecondScreen({super.key});
+class Generalscreen extends StatelessWidget {
+  const Generalscreen({super.key});
 
   @override
   Widget build(BuildContext context) {

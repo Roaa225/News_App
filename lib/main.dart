@@ -1,4 +1,4 @@
-import 'package:f6/SecondScreen.dart';
+import 'package:f6/GeneralScreen.dart';
 import 'package:flutter/material.dart';
 
 final List<String>images= [
@@ -89,7 +89,7 @@ class MyApp extends StatelessWidget {
                     context,
                    MaterialPageRoute(
                    builder: (context) {
-                   return SecondScreen();
+                   return Generalscreen() ;
                  },
                ),
              );
